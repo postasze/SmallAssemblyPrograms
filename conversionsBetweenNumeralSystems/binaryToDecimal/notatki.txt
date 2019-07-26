@@ -1,0 +1,2 @@
+bindec - od pocz¹tku do koñca stringa
+bindec1 - od koñca do pocz¹tku stringa
